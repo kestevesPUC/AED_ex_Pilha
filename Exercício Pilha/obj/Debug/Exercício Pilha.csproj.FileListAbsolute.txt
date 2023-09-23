@@ -1,0 +1,7 @@
+C:\Users\Kaio\source\repos\Exercício Pilha\Exercício Pilha\bin\Debug\Exercício Pilha.exe.config
+C:\Users\Kaio\source\repos\Exercício Pilha\Exercício Pilha\bin\Debug\Exercício Pilha.exe
+C:\Users\Kaio\source\repos\Exercício Pilha\Exercício Pilha\bin\Debug\Exercício Pilha.pdb
+C:\Users\Kaio\source\repos\Exercício Pilha\Exercício Pilha\obj\Debug\Exercício Pilha.csproj.AssemblyReference.cache
+C:\Users\Kaio\source\repos\Exercício Pilha\Exercício Pilha\obj\Debug\Exercício Pilha.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\source\repos\Exercício Pilha\Exercício Pilha\obj\Debug\Exercício Pilha.exe
+C:\Users\Kaio\source\repos\Exercício Pilha\Exercício Pilha\obj\Debug\Exercício Pilha.pdb
